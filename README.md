@@ -5,6 +5,13 @@
 ロボットの動作状況は以下のYoutube再生リストから確認できます。  
 https://www.youtube.com/playlist?list=PLkEBRGnKNUILFJv4zKvQkQi69NoT-_FYg
 
+## Appearance  
+![20190915012225](https://user-images.githubusercontent.com/22733958/122162380-75262e80-ceae-11eb-8c4b-97ddd1e104c6.jpg)    
+![20190923145141](https://user-images.githubusercontent.com/22733958/122162579-c59d8c00-ceae-11eb-8254-9e920880f917.jpg)  
+![20190915011707](https://user-images.githubusercontent.com/22733958/122162600-cb936d00-ceae-11eb-8e39-7c3e3c1d2bd5.jpg)  
+
+
+
 ## Main board   
 Front             |  Back  
 :-------------------------:|:-------------------------:
