@@ -3,7 +3,10 @@
 ロボカップジュニア2017ジャパンオープンに出場したチームNTKのKicad基板データです。  
 
 ロボットの動作状況は以下のYoutube再生リストから確認できます。  
-https://www.youtube.com/playlist?list=PLkEBRGnKNUILFJv4zKvQkQi69NoT-_FYg
+https://www.youtube.com/playlist?list=PLkEBRGnKNUILFJv4zKvQkQi69NoT-_FYg  
+
+ロボットの細かな説明は以下のブログで紹介しています。  
+https://note.com/spinach_egg/n/n5938fe6f424b
 
 ## Appearance  
 <img src="https://user-images.githubusercontent.com/22733958/122162380-75262e80-ceae-11eb-8c4b-97ddd1e104c6.jpg" width="480ｐx">  
