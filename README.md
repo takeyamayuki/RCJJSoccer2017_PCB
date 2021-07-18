@@ -1,11 +1,11 @@
 # RCJJ_Soccer_2017
 
-ロボカップジュニア2017ジャパンオープンに出場したチームNTKのKicad基板データです。  
+This is the Kicad board data of Team NTK that competed in RoboCup Junior 2017 Japan Open.  
 
-ロボットの動作状況は以下のYoutube再生リストから確認できます。  
+You can see how the robot works from the following Youtube playlist.  
 https://www.youtube.com/playlist?list=PLkEBRGnKNUILFJv4zKvQkQi69NoT-_FYg  
 
-ロボットの細かな説明は以下のブログで紹介しています。  
+The detailed explanation of the robot can be found in the following blog.    
 https://note.com/spinach_egg/n/n5938fe6f424b
 
 ## Appearance  
