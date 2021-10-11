@@ -1,4 +1,4 @@
-# RCJJ_Soccer_2017
+# RoboCupJunior_Japan_Soccer_2017_Board
 
 This is the Kicad board data of Team NTK that competed in RoboCup Junior 2017 Japan Open.  
 
